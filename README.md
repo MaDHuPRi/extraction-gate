@@ -2,7 +2,7 @@
 
 Tests a W-2 extractor version before it ships. It runs the current and new versions on documents with known answers, counts what each mistake would cost in dollars, and returns **Ship**, **Block** or **No Decision**.
 
-Live prototype: [ADD STREAMLIT LINK]
+Live prototype: https://extraction-gate.streamlit.app
 
 All data is synthetic. No paid service, account or API key is needed.
 
